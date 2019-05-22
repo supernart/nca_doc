@@ -7,7 +7,7 @@
 </head>
 <body>
 	<script type="text/javascript">
-		window.location="view/index.php";
+		// window.location="view/index.php";
 	</script>
 </body>
 </html>
